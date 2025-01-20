@@ -9,3 +9,15 @@ This project demonstrates a **controlled phishing simulation** using a Raspberry
 - Command-and-control (C2) management
 
 The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for simulating email-based phishing attacks and applies the **MITRE ATT&CK framework** to analyze each phase of the attack.
+
+---
+
+## 🚀 **Features**
+- **Phishing Simulation**: Automates the process of crafting  and sending phishing emails with malicious payloads.
+- **Payload Deployment**: Deploys Fully Undetectable (FUD) payloads created with Windows PowerShell, bypassing Windows 11 security features.
+- **Reverse Engineering**: Raspberry Pi acts as a platform for analyzing and refining attack strategies.
+- **Command-and-Control (C2) by Raspberry Pi**: Manages reverse shell connections for tasks like privilege escalation and data exfiltration.
+- **Real-Time Monitoring**: Tracks attack progress and sends alerts for successful payload execution or interruptions.
+- **MITRE ATT&CK Integration**: Maps tactics, techniques, and procedures (TTPs) for structured analysis.
+
+---
