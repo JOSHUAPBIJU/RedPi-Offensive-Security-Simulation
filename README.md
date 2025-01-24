@@ -40,3 +40,10 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 - **Execution**: FUD payload delivery and execution.
 - **Privilege Escalation**: Gaining higher access on the target system.
 - **Exfiltration**: Stealing data from the target system.
+
+## 🔧 **How to Use**
+
+### **Prerequisites**
+- A Raspberry Pi with network access.
+- A Windows 11 machine with updated security features.
+- Knowledge of Linux commands and basic networking.
