@@ -20,4 +20,23 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 - **Real-Time Monitoring**: Tracks attack progress and sends alerts for successful payload execution or interruptions.
 - **MITRE ATT&CK Integration**: Maps tactics, techniques, and procedures (TTPs) for structured analysis.
 
+
 ---
+
+## 🧩 **Project Components**
+
+### **1. Hardware**
+- Raspberry Pi (attacker system)
+- Windows 11 machine (target system)
+
+### **2. Software/Tools**
+- **Postfix, Dovecot, Roundcube**: Email server configuration for phishing campaigns.
+- **Windows PowerShell**: Creation of Fully Undetectable (FUD) payloads.
+- **Netcat**: Capturing reverse shell connections.
+- **MITRE ATT&CK Framework**: Structured analysis of attack phases.
+
+### **3. Key Attack Phases**
+- **Initial Access**: Phishing emails with malicious attachments.
+- **Execution**: FUD payload delivery and execution.
+- **Privilege Escalation**: Gaining higher access on the target system.
+- **Exfiltration**: Stealing data from the target system.
