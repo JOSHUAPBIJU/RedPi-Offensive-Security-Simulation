@@ -67,3 +67,10 @@ This project demonstrates the effectiveness of phishing simulations for testing 
 - The ability of FUD payloads to bypass modern security systems by using Raspberry Pi
 - The role of automation in improving the efficiency of red team operations.
 - Insights into vulnerabilities and recommendations for strengthening defenses.
+---
+
+## ⚠️ **Disclaimer**
+
+This project is for **educational purposes only**. Unauthorized use of these techniques or tools against systems without permission is **illegal** and **unethical**.
+
+---
