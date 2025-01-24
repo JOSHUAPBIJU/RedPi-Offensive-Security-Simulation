@@ -61,3 +61,9 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
    - Send phishing emails from the Raspberry Pi.
    - Monitor the attack progress and capture reverse shell connections using **Netcat**.
 5. Analyze attack phases with the **MITRE ATT&CK framework** to identify vulnerabilities.
+## 📊 **Results**
+
+This project demonstrates the effectiveness of phishing simulations for testing security defenses. It highlights:
+- The ability of FUD payloads to bypass modern security systems by using Raspberry Pi
+- The role of automation in improving the efficiency of red team operations.
+- Insights into vulnerabilities and recommendations for strengthening defenses.
