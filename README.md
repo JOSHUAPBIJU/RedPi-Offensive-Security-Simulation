@@ -74,3 +74,7 @@ This project demonstrates the effectiveness of phishing simulations for testing 
 This project is for **educational purposes only**. Unauthorized use of these techniques or tools against systems without permission is **illegal** and **unethical**.
 
 ---
+
+## 🙌 **Acknowledgments**
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+- Community resources for Raspberry Pi and cybersecurity tools.
