@@ -49,18 +49,15 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 - Knowledge of Linux commands and basic networking.
 
 - ### **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/phishing-simulation-raspberrypi.git
-   ```
-2. Configure the Raspberry Pi:
+
+1. Configure the Raspberry Pi:
    - Install and configure **Postfix**, **Dovecot**, and **Roundcube**.
    - Set up the phishing email template and attach the malicious payload.
-3. Generate FUD payloads using **Windows PowerShell**.
-4. Simulate the phishing attack:
+2. Generate FUD payloads using **Windows PowerShell**.
+3. Simulate the phishing attack:
    - Send phishing emails from the Raspberry Pi.
    - Monitor the attack progress and capture reverse shell connections using **Netcat**.
-5. Analyze attack phases with the **MITRE ATT&CK framework** to identify vulnerabilities.
+4. Analyze attack phases with the **MITRE ATT&CK framework** to identify vulnerabilities.
 ## 📊 **Results**
 
 This project demonstrates the effectiveness of phishing simulations for testing security defenses. It highlights:
