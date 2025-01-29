@@ -41,6 +41,10 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 - **Privilege Escalation**: Gaining higher access on the target system.
 - **Exfiltration**: Stealing data from the target system.
 
+ ### **4. Data Flow Diagram**
+
+ 
+ ![Att&ck Time Line](https://raw.githubusercontent.com/JOSHUAPBIJU/RedPi-Offensive-Security-Simulation/refs/heads/main/Resource/flow_diagram.png)
 ## 🔧 **How to Use**
 
 ### **Prerequisites**
