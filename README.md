@@ -2,7 +2,7 @@
 
 ## 🛡️ **Overview**
 
-This project demonstrates a **controlled phishing simulation** using a Raspberry Pi as the attacker system and a Windows 11 machine as the target. The project showcases **red team tactics** to understand attacker methodologies and improve cybersecurity defenses. It includes key operations such as:
+This project demonstrates a **controlled phishing simulation** using a **Raspberry Pi** as the attacker system and a Windows 11 machine as the target. The project showcases **red team tactics** to understand attacker methodologies and improve cybersecurity defenses. It includes key operations such as:
 - Phishing campaigns
 - Payload deployment
 - Reverse engineering
@@ -13,7 +13,7 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 ---
 
 ## 🚀 **Features**
-- **Phishing Simulation**: Automates the process of crafting  and sending phishing emails with malicious payloads.
+- **Phishing Simulation**: Automates the process of crafting  and sending phishing emails with malicious payloads using Raspberry Pi
 - **Payload Deployment**: Deploys Fully Undetectable (FUD) payloads created with Windows PowerShell, bypassing Windows 11 security features.
 - **Reverse Engineering**: Raspberry Pi acts as a platform for analyzing and refining attack strategies.
 - **Command-and-Control (C2) by Raspberry Pi**: Manages reverse shell connections for tasks like privilege escalation and data exfiltration.
@@ -27,7 +27,7 @@ The project utilizes tools like **Postfix**, **Dovecot**, and **Roundcube** for 
 
 ### **1. Hardware**
 - Raspberry Pi (attacker system)
-- Windows 11 machine (target system)
+-  Updated Windows 11 machine (target system)
 
 ### **2. Software/Tools**
 - **Postfix, Dovecot, Roundcube**: Email server configuration for phishing campaigns.
